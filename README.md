@@ -30,3 +30,13 @@ Script event prediction [[paper]](https://www.ijcai.org/proceedings/2018/0584.pd
 ## NEEG
 Constructing Narrative Event Evolutionary Graph for Script Event Prediction [[paper]](https://www.ijcai.org/proceedings/2018/0584.pdf)
 [[code]](https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018)
+#### Methods for Event Chains Extraction
+What Happens Next? Event Prediction Using a Compositional Neural Network Model [[paper]](https://mark.granroth-wilding.co.uk/files/aaai2016.pdf) [[code]](https://mark.granroth-wilding.co.uk/papers/what_happens_next/)
+
+
+
+
+
+
+
+
