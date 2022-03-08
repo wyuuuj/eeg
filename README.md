@@ -1,15 +1,16 @@
 # Event Evolutionary Graph papers
-This is a repo listing papers about Event Evolutionary Graph
+This is a repo listing papers about Event Evolutionary Graph  
 
 <br>
-
+  
 ## A review about Event Knowledge Graph
-What is Event Knowledge Graph: A Survey [[paper]](https://arxiv.org/pdf/2112.15280.pdf)
+What is Event Knowledge Graph: A Survey [[paper]](https://arxiv.org/pdf/2112.15280.pdf)  
 
 <br>
 
 ## Event Evolutionary Graph
 EEG:Knowledge Base for Event Evolutionary Principles and Patterns [[paper]](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_4)
+(    _this paper only covers sequential relation between events_)
 
 <br>
 
@@ -23,8 +24,6 @@ Constructing and embedding abstract event causality networks from text snippets 
 Deep learning for event-driven stock prediction [[paper]](http://ir.hit.edu.cn/~xding/docs/Deep%20Learning%20for%20Event-Driven%20Stock%20Prediction.pdf)
 #### Application of the ELG
 Script event prediction [[paper]](https://www.ijcai.org/proceedings/2018/0584.pdf)
-
-
 
 <br>
 
