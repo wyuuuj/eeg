@@ -1,5 +1,5 @@
 # Event Evolutionary Graph papers
-This is a repo listing papers about Event Evolutionary Graph  
+Here listing papers about Event Evolutionary Graph  
 
 <br>
   
