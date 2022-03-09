@@ -9,7 +9,7 @@ What is Event Knowledge Graph: A Survey [[paper]](https://arxiv.org/pdf/2112.152
 <br>
 
 ## Event Evolutionary Graph
-EEG:Knowledge Base for Event Evolutionary Principles and Patterns [[paper]](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_4)
+EEG: Knowledge Base for Event Evolutionary Principles and Patterns [[paper]](https://link.springer.com/chapter/10.1007/978-981-10-6805-8_4)
 (    _this paper only covers sequential relation between events_)
 
 <br>
