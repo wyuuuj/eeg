@@ -36,8 +36,8 @@ Script event prediction [[paper]](https://www.ijcai.org/proceedings/2018/0584.pd
 <br>
 
 ## Some other developments in this area
-
-### Method for event representation
+[(Granroth-Wilding and Clark 2016)](https://mark.granroth-wilding.co.uk/files/aaai2016.pdf) propose a new task, multiple choice narrative cloze(MCNC), which can be used for event prediction
+### Event representation
 Event Representation Learning Enhanced with External Commonsense Knowledge [[paper]](https://aclanthology.org/D19-1495.pdf) [[code]](https://github.com/MagiaSN/CommonsenseERL_EMNLP_2019)
 
 
