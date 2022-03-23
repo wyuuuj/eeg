@@ -31,8 +31,9 @@ Constructing Narrative Event Evolutionary Graph for Script Event Prediction [[pa
 #### Methods for event chains extraction
 What Happens Next? Event Prediction Using a Compositional Neural Network Model [[paper]](https://mark.granroth-wilding.co.uk/files/aaai2016.pdf) [[code]](https://mark.granroth-wilding.co.uk/papers/what_happens_next/)
 ### *Application of the Event Graph*
-[Basic applications] Script event prediction, Timeline generation, Abductive reasoning
-[Deep applications] search, question-answering, recommendation, text generation
+*[Basic applications] script event prediction, timeline generation, abductive reasoning*
+
+*[Deep applications] search, question-answering, recommendation, text generation*
 
 <br>
 
