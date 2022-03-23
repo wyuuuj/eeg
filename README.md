@@ -38,7 +38,7 @@ What Happens Next? Event Prediction Using a Compositional Neural Network Model [
 <br>
 
 ## Some other developments in this area
-[(Granroth-Wilding and Clark)](https://mark.granroth-wilding.co.uk/files/aaai2016.pdf) propose a new task, *Multiple Choice Narrative Cloze(MCNC)*, which can be used for event prediction [[code]](https://mark.granroth-wilding.co.uk/papers/what_happens_next/)
+[(Granroth-Wilding and Clark)](https://mark.granroth-wilding.co.uk/files/aaai2016.pdf) propose a new task, *Multiple Choice Narrative Cloze(MCNC)*, which can be used for event prediction
 
 Based on MCNC, [(Weber et al.)](https://arxiv.org/pdf/1711.07611.pdf) manually curated an evaluation set for the MCNC task which is called the *Coherent Multiple Choice Narrative Cloze (CMCNC)* [[code]](https://github.com/stonybrooknlp/event-tensors)
 
@@ -47,15 +47,15 @@ Based on MCNC, [(Weber et al.)](https://arxiv.org/pdf/1711.07611.pdf) manually c
 ### Event representation
 [2019 EMNLP] Event Representation Learning Enhanced with External Commonsense Knowledge [[paper]](https://aclanthology.org/D19-1495.pdf) [[code]](https://github.com/MagiaSN/CommonsenseERL_EMNLP_2019)
 
-[2019 AAAI] SAM-Net: Integrating Event-Level and Chain-Level Attentions to Predict What Happens Next
+[2019 AAAI] SAM-Net: Integrating Event-Level and Chain-Level Attentions to Predict What Happens Next [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4655/4533)
 
-[2020 COLING] Integrating External Event Knowledge for Script Learning
+[2020 COLING] Integrating External Event Knowledge for Script Learning [[paper]](https://aclanthology.org/2020.coling-main.27.pdf)
 
-[2020 COLING] Heterogeneous Graph Neural Networks to Predict What Happen Next
+[2020 COLING] Heterogeneous Graph Neural Networks to Predict What Happen Next [[paper]](https://aclanthology.org/2020.coling-main.29.pdf)
 
-[2021 ACL] ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning
+[2021 ACL] ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning [[paper]](https://aclanthology.org/2021.acl-long.183.pdf)
 
-[2021 EMNLP] Integrating Deep Event-Level and Script-Level Information for Script Event Prediction
+[2021 EMNLP] Integrating Deep Event-Level and Script-Level Information for Script Event Prediction [[paper]](https://arxiv.org/pdf/2110.15706.pdf)
 
 
 
