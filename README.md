@@ -39,6 +39,11 @@ What Happens Next? Event Prediction Using a Compositional Neural Network Model [
 
 ## Some other developments in this area
 [(Granroth-Wilding and Clark 2016)](https://mark.granroth-wilding.co.uk/files/aaai2016.pdf) propose a new task, multiple choice narrative cloze(MCNC), which can be used for event prediction
+
+[(Event Representations with Tensor-based Compositions)]()[[code]](https://github.com/stonybrooknlp/event-tensors) manually curated an evaluation set for the MCNC task which is called the *Coherent Multiple Choice Narrative Cloze (CMCNC)*
+
+
+
 ### Event representation
 Event Representation Learning Enhanced with External Commonsense Knowledge [[paper]](https://aclanthology.org/D19-1495.pdf) [[code]](https://github.com/MagiaSN/CommonsenseERL_EMNLP_2019)
 
