@@ -38,9 +38,9 @@ What Happens Next? Event Prediction Using a Compositional Neural Network Model [
 <br>
 
 ## Some other developments in this area
-[(Granroth-Wilding and Clark 2016)](https://mark.granroth-wilding.co.uk/files/aaai2016.pdf) propose a new task, multiple choice narrative cloze(MCNC), which can be used for event prediction
+[(Granroth-Wilding and Clark)](https://mark.granroth-wilding.co.uk/files/aaai2016.pdf) propose a new task, *Multiple Choice Narrative Cloze(MCNC)*, which can be used for event prediction [[code]](https://mark.granroth-wilding.co.uk/papers/what_happens_next/)
 
-[(Event Representations with Tensor-based Compositions)]()[[code]](https://github.com/stonybrooknlp/event-tensors) manually curated an evaluation set for the MCNC task which is called the *Coherent Multiple Choice Narrative Cloze (CMCNC)*
+Based on MCNC, [(Weber et al.)](https://arxiv.org/pdf/1711.07611.pdf) manually curated an evaluation set for the MCNC task which is called the *Coherent Multiple Choice Narrative Cloze (CMCNC)* [[code]](https://github.com/stonybrooknlp/event-tensors)
 
 
 
