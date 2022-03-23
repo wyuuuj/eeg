@@ -22,17 +22,22 @@ Building chinese event type paradigm based on trigger clustering [[paper]](https
 Constructing and embedding abstract event causality networks from text snippets [[paper]]()
 #### Methods for Event Embedding
 Deep learning for event-driven stock prediction [[paper]](http://ir.hit.edu.cn/~xding/docs/Deep%20Learning%20for%20Event-Driven%20Stock%20Prediction.pdf)
-#### Application of the ELG
-Script event prediction [[paper]](https://www.ijcai.org/proceedings/2018/0584.pdf)
 
 <br>
 
-## SGNN
+## SGNN(Scaled Graph Neural Network)
 Constructing Narrative Event Evolutionary Graph for Script Event Prediction [[paper]](https://www.ijcai.org/proceedings/2018/0584.pdf)
 [[code]](https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018)
 #### Methods for event chains extraction
 What Happens Next? Event Prediction Using a Compositional Neural Network Model [[paper]](https://mark.granroth-wilding.co.uk/files/aaai2016.pdf) [[code]](https://mark.granroth-wilding.co.uk/papers/what_happens_next/)
-#### Method for event representation
+### *Application of the Event Graph*
+Script event prediction [[paper]](https://www.ijcai.org/proceedings/2018/0584.pdf)
+
+<br>
+
+## Some other developments in this area
+
+### Method for event representation
 Event Representation Learning Enhanced with External Commonsense Knowledge [[paper]](https://aclanthology.org/D19-1495.pdf) [[code]](https://github.com/MagiaSN/CommonsenseERL_EMNLP_2019)
 
 
