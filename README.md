@@ -42,9 +42,9 @@ What Happens Next? Event Prediction Using a Compositional Neural Network Model [
 
 Based on MCNC, [(Weber et al.)](https://arxiv.org/pdf/1711.07611.pdf) manually curated an evaluation set for the MCNC task which is called the *Coherent Multiple Choice Narrative Cloze (CMCNC)* [[code]](https://github.com/stonybrooknlp/event-tensors)
 
+<br>
+<br>
 
-
-### Event representation
 [2019 EMNLP] Event Representation Learning Enhanced with External Commonsense Knowledge [[paper]](https://aclanthology.org/D19-1495.pdf) [[code]](https://github.com/MagiaSN/CommonsenseERL_EMNLP_2019)
 
 [2019 AAAI] SAM-Net: Integrating Event-Level and Chain-Level Attentions to Predict What Happens Next [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4655/4533)
